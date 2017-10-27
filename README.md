@@ -7,7 +7,7 @@ PHP-WEBSITE-ELITEHOLDING 设计精美的英文企业网站，包括前台后台�
 站点前后端未用任何MVC框架、未用任何第三方CMS系统，不存在复杂的一堆看不明白的代码，全程序均手写，非常适合PHP初学者入门。  
 
 ****
-![](https://github.com/Kokolpb/PHP-WEBSITE-ELITEHOLDING/blob/master/home.png)  
+![](https://github.com/Kokolpb/PHP-WEBSITE-ELITEHOLDING/blob/master/home.jpg)  
 
 运行环境和下载地址 
 ===========================
